@@ -1,3 +1,7 @@
+#
+# Defense code adapted from https://github.com/YyzHarry/ME-Net/tree/deeb4293a6e9ca2b580bc3d55087ff37f870af80
+#
+
 import torch
 import torch.nn as nn
 import numpy as np
